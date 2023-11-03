@@ -8,6 +8,13 @@
 \description{
 Dummy package to test CI on Gitub.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/EricMarcon/citest}
+}
+
+}
 \author{
 \strong{Maintainer}: Eric Marcon \email{e.marcon@free.fr} (\href{https://orcid.org/0000-0002-5249-321X}{ORCID})
 
