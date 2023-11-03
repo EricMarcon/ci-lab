@@ -2,7 +2,7 @@ pandoc: 2.19.2
 pkgdown: 2.0.7
 pkgdown_sha: ~
 articles: {}
-last_built: 2023-11-03T08:47Z
+last_built: 2023-11-03T09:02Z
 urls:
   reference: https://EricMarcon.github.io/citest/reference
   article: https://EricMarcon.github.io/citest/articles
