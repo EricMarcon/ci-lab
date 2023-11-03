@@ -8,8 +8,6 @@ name: R-CMD-check
 jobs:
   R-CMD-check:
     runs-on: macOS-latest
-    env:
-      GITHUB_PAT: ${{ secrets.GH_PAT }}
     steps:
       - uses: actions/checkout@v4
       - uses: r-lib/actions/setup-r@v2
