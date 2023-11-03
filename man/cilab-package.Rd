@@ -11,7 +11,7 @@ Dummy package to test CI on Gitub.
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/EricMarcon/citest}
+  \item \url{https://github.com/EricMarcon/cilab}
 }
 
 }
