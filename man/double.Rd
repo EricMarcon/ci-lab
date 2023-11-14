@@ -21,5 +21,5 @@ Calculate the double values of numbers.
 }
 \examples{
 double(2)
-double(1:4)
+double(1:5)
 }
